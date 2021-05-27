@@ -1,0 +1,28 @@
+# FREQUENCY A
+# Mon May 12 13:13:23 2003
+# Measuring time: 10 ms                       Single: Off
+# Input A: Auto, 1Mê, AC, X1, Pos             Filter: Off
+# Input B: Auto, 1Mê, AC, X1, Pos             Common: Off
+# Ext.arm: Off                                Ref.osc: Internal
+# Hold off: Off                               Statistics: Off
+#  	        "^"
+#                         "("
+#                        "(\\d.\\d*e[-|+]\\d{3}\\s\\d.\\d*e[-|+]\\d{3})"
+#                         "|(\\d.\\d*\\s\\d.\\d*)"
+#                         "|(\\d*\\s\\d*)"
+#                         ")"
+#                         "((\\r\\n)|\\r|)"
+#                         "$"
+#0.0 0.0
+3.e-001 7.e+007
+4.e-001 6.e+007
+
+5.e-001 5.e+007
+6.e-001 4.e+007
+6.e-001 zzz
+7.e-001 3.e+007
+
+8.e-001 2.e+007
+ÿûâà ïïï	
+9.e-001 1.e+007
+
